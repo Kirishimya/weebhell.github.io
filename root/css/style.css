@@ -52,7 +52,7 @@ nav a:hover{
 .navsearch{
     color: deepskyblue;
     border-style: none;
-    border-radius: 20% 20% 20% 20%  ;
+    border-radius: 10px  ;
 }
 .searchbar:hover{
     background:rgb(17, 46, 44);
